@@ -8,3 +8,56 @@ background-color: rgb(255, 242, 0);
 text-align: center;
 color: rgb(197, 7, 16);
 }
+
+
+button{
+   
+    color: rgb(5, 107, 15);
+}
+
+a{
+    color: blueviolet;
+  
+}
+h1{
+text-align: center;
+background-color: blueviolet;
+
+
+}
+
+h2 {
+text-align: center;
+background-color: aqua;
+
+}
+
+.paulao {
+overflow: hidden;
+background-color: rgb(32, 31, 34);
+color: black;
+position: relative;
+left: 100px;
+heigth: 100px;
+width: 2000px;
+padding: 5px;
+
+
+}
+
+.paulao a {
+    float: left;
+    display: block;
+text-decoration: none;
+margin-left: 500px;
+color: rgb(234, 17, 212);
+font-size: 20px;
+
+
+}
+
+.paulao a:hover {
+   background-color: brown;  
+curser: pointer;
+
+}
